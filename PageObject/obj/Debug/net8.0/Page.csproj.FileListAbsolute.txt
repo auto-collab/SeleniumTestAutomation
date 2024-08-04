@@ -1,0 +1,11 @@
+C:\code\SeleniumTestAutomation\PageObject\bin\Debug\net8.0\Page.deps.json
+C:\code\SeleniumTestAutomation\PageObject\bin\Debug\net8.0\Page.dll
+C:\code\SeleniumTestAutomation\PageObject\bin\Debug\net8.0\Page.pdb
+C:\code\SeleniumTestAutomation\PageObject\obj\Debug\net8.0\Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\SeleniumTestAutomation\PageObject\obj\Debug\net8.0\Page.AssemblyInfoInputs.cache
+C:\code\SeleniumTestAutomation\PageObject\obj\Debug\net8.0\Page.AssemblyInfo.cs
+C:\code\SeleniumTestAutomation\PageObject\obj\Debug\net8.0\Page.csproj.CoreCompileInputs.cache
+C:\code\SeleniumTestAutomation\PageObject\obj\Debug\net8.0\Page.dll
+C:\code\SeleniumTestAutomation\PageObject\obj\Debug\net8.0\refint\Page.dll
+C:\code\SeleniumTestAutomation\PageObject\obj\Debug\net8.0\Page.pdb
+C:\code\SeleniumTestAutomation\PageObject\obj\Debug\net8.0\ref\Page.dll
